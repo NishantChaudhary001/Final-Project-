@@ -1,5 +1,5 @@
 {
-  "name": "smart-resume-builder-root",
+  "name": "freelance-bidding-platform",
   "private": true,
   "scripts": {
     "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\""
